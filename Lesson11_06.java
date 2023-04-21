@@ -6,5 +6,6 @@ class Lesson11_06{
             sum+=arr[i];
         }
         System.out.println(sum);
+        //
     }
 }
